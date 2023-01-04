@@ -30,3 +30,4 @@
  #### Contact me:
 [LinkedIn](https://www.linkedin.com/in/trevorrhoffman/)
 [Portfolio](https://www.trevorrhoffman.com/)
+Email: trevorrhoffman@gmail.com
