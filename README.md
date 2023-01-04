@@ -23,7 +23,7 @@
 
  #### What I do personally:
 - Love working out 💪🦾
-- play lots of GHolf🏌🏼‍♂️⛳️
+- play lots of Golf🏌🏼‍♂️⛳️
 - Love to tell jokes and keep things in perspective. 😄💯
 
 
