@@ -4,7 +4,7 @@
 - Develop Full stack applications from scratch 💻📲
 - add existing features to production ready apps 👷‍🤩
 - Lead and mentor other engineers with empathy and compassion to bring out the best in everyone 🤩💯✅
-- Bring honest and open communication about the state of features and application and work to improve the overall health. ✅💯
+- Bring honest and open communication about the state of features and application and work to improve the overall health of the application(s). ✅💯
 - Hold a high bar for myself and those on my team. ✅💯
 - Do my best to create a collaborative enviroment where everyone feels encouraged to learn and grow. 👥👥
 - Take Pride in building responsive applications but most importantly accessible applications 📲💻
