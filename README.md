@@ -13,12 +13,15 @@
 - JavaScript
 - React 
 - Node
+- NestJS
+- NextJS
 - React Native
 - TypeScript
 - Angular
 - AWS
 - GraphQL
 - GCP
+  
 
 #### Always happy to learn new technolgies and expand my skill set.
 
