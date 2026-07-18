@@ -1,35 +1,13 @@
-### Hi there 👋 Glad to have you here!
+Hi, I'm Trevor — Senior full-stack engineer specializing in Node.js, TypeScript, and cloud-native architecture on AWS.
+What I Build:
 
- #### What I Do: 
-- Develop Full stack applications from scratch 💻📲
-- add existing features to production ready apps 👷‍🤩
-- Lead and mentor other engineers with empathy and compassion to bring out the best in everyone 🤩💯✅
-- Bring honest and open communication about the state of features, application,and work to improve the overall health of the application(s). ✅💯
-- Hold a high bar for myself and those on my team. ✅💯
-- Do my best to create a collaborative enviroment where everyone feels encouraged to learn and grow. 👥👥
-- Take Pride in building responsive applications but most importantly accessible applications 📲💻
+Production systems at scale (26M+ units, high-throughput analytics)
+Cross-functional leadership and mentorship
+Reliable, observable enterprise features
+Accessible, responsive applications
 
- #### My Stack: 
-- JavaScript
-- React 
-- Node
-- NestJS
-- NextJS
-- React Native
-- TypeScript
-- Angular
-- AWS
-- GraphQL
-- GCP
-  
-
-#### Always happy to learn new technolgies and expand my skill set.
-
-
- #### What I do personally:
-- Love working out 💪🦾
-- play lots of Golf🏌🏼‍♂️⛳️
-- Love to tell jokes and keep things in perspective. 😄💯
+My Stack: Node.js, TypeScript, React, NestJS, AWS, GraphQL, PostgreSQL
+Get in touch: LinkedIn | Portfolio | trevorrhoffman@gmail.com
 
 
  #### Contact me:
