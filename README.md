@@ -6,7 +6,7 @@ Cross-functional leadership and mentorship
 Reliable, observable enterprise features
 Accessible, responsive applications
 
-My Stack: Node.js, TypeScript, React, NestJS, AWS, GraphQL, PostgreSQL
+My Stack: Node.js, TypeScript, React, NestJS, AWS, GraphQL, PostgreSQL,Angular,Redis, NextJS 
 Get in touch: LinkedIn | Portfolio | trevorrhoffman@gmail.com
 
 
